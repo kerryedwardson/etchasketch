@@ -1,0 +1,23 @@
+#container {
+    margin: 30px auto;
+    border: .05px solid black;
+    height: 500px;
+    width: 500px;
+    display: grid;
+}
+
+.cell {
+    border: .05px solid black;
+    width: auto;
+    height: auto;
+    margin: .5px;
+}
+
+.btn {
+    width: 7rem;
+    height: auto;
+}
+
+.btn-container {
+    text-align: center;
+}
